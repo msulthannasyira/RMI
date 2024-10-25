@@ -1,4 +1,4 @@
-# RMI
+# RMI (Remote Method Invocation) Simulasi Bank Unhan Menggunakan Java
 
 ## I. Pendahuluan
 Remote Method Invocation (RMI) adalah sebuah mekanisme dalam Java yang memungkinkan objek untuk memanggil metode yang ada pada objek lain yang berada pada JVM yang berbeda, baik di komputer yang sama maupun di komputer yang berbeda. RMI memfasilitasi komunikasi antara objek yang terdistribusi dalam jaringan, yang sangat berguna untuk aplikasi berbasis server-klien seperti sistem perbankan.
