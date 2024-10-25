@@ -215,6 +215,7 @@ Jalankan Klien: Di jendela terminal baru, arahkan ke direktori yang sama dan jal
 java BankClientGUI
 ```
 Antarmuka pengguna grafis (GUI) untuk klien bank akan terbuka, memungkinkan Anda untuk melakukan login dan transaksi.
+
 **G. Menguji Aplikasi**
 Login: Masukkan username dan PIN yang telah Anda tetapkan dalam BankImpl.java (contoh: user123 dengan PIN 1234).
 Lakukan Transaksi: Setelah berhasil login, Anda dapat mencoba memeriksa saldo, mentransfer dana, atau mengisi ulang saldo.
