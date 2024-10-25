@@ -221,6 +221,36 @@ Login: Masukkan username dan PIN yang telah Anda tetapkan dalam BankImpl.java (c
 Lakukan Transaksi: Setelah berhasil login, Anda dapat mencoba memeriksa saldo, mentransfer dana, atau mengisi ulang saldo.
 untuk username dan pin dapat diatur melalui BankImpl.java
 
+**F. Beberapa Tampilan GUI**
+
+![image](https://github.com/user-attachments/assets/8b8d87f8-3e45-42c7-9f75-21cd482388eb)
+
+pesan selamat datang
+
+![image](https://github.com/user-attachments/assets/06295377-9025-45d1-a9d6-70b5f00dcf10)
+
+halaman login
+
+![image](https://github.com/user-attachments/assets/a4e0514e-06c0-4f57-928b-c4e1e997a3c7)
+
+halaman menu utama
+
+![image](https://github.com/user-attachments/assets/8c78a02c-11a8-4bd2-b8e3-cc54a1d00122)
+
+check balance
+
+![image](https://github.com/user-attachments/assets/6a1702af-6f34-425e-a2e6-b7ce193c5081)
+
+transfer funds
+
+![image](https://github.com/user-attachments/assets/fcc92f43-1964-4c92-bd7f-1c66cf4782fb)
+
+top-up
+
+
+
+
+
 ## V. Kesimpulan
 Sistem perbankan yang dibangun menggunakan RMI dalam Java menyediakan antarmuka yang sederhana dan efisien untuk melakukan transaksi perbankan secara jarak jauh. Dengan memisahkan logika bisnis (server) dan antarmuka pengguna (klien), sistem ini mendukung pengembangan aplikasi terdistribusi yang lebih terstruktur dan mudah dikelola. RMI memungkinkan komunikasi yang efektif antara klien dan server, menjadikannya pilihan yang tepat untuk aplikasi berbasis jaringan seperti sistem perbankan ini.
 
